@@ -3,4 +3,4 @@
 
 效果如下：
 
-![示例]（https://github.com/liujilong0116/android-opencv-dlib-facelandmark/blob/master/image/1.jpg）
+![示例](https://github.com/liujilong0116/android-opencv-dlib-facelandmark/blob/master/image/1.jpg)
